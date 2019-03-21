@@ -80,7 +80,5 @@ public class ArrayTradicional {
         //@61651651 esto es un identificador hexadecimal creado por Java
         //pero no nos saca los elementos que contiene que es lo que nos interesa
         System.out.println(articulos); 
-        
-    }
-    
+    }   
 }
